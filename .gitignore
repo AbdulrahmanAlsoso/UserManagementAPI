@@ -1,0 +1,58 @@
+# ASP.NET Core
+## User-specific files
+.idea/
+.vs/
+.vscode/
+
+# User-specific files for Rider, VS for Mac
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+bin/
+obj/
+
+# Windows Installer files
+# https://docs.microsoft.com/en-us/aspnet/core/hosting/aspnet-core-on-windows
+# Ignore .vs directory
+.vs2019/
+.vs2017/
+
+# .NET Core SDK and runtime
+global.json
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build directories
+bin/
+obj/
+
+# VS Code directory
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core webapp settings
+appsettings.Development.json
+appsettings.Production.json
+
+# User secrets
+secrets/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Core runtime files
+wwwroot/
